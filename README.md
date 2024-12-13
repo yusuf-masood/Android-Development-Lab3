@@ -52,6 +52,10 @@ QuizMaster App is an Android application that allows users to engage with quizze
 - Android Studio installed on your machine.
 - Minimum SDK version: 21 (Android 5.0 Lollipop).
 
+## Contribution:
+- Abdullaev Shakhzod - 22B031601
+- Sayed Yusuf Masood - 21B031339
+
 ### Steps:
 1. Clone the repository:
    ```bash
